@@ -55,10 +55,17 @@ body{
     opacity: 1;
 }
 50%{
-    opacity: 0.6;
+    opacity: 0.9;
 }
 100%
 {
     opacity: 1;
 }
+}
+
+#score_board
+{
+    font-size: 25px;
+    font-weight: bolder;
+    color: rgb(244, 10, 10);
 }
